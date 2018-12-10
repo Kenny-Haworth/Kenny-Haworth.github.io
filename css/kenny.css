@@ -1,0 +1,9 @@
+body {
+    background-color: #202020;
+}
+
+#project{background-color:white;}
+
+.bordered {
+    border: 10px solid black;
+}
